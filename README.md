@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Learning to code on text at a time.
